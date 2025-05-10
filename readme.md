@@ -14,8 +14,8 @@ This project was created as part of an academic assignment for the Text Web Mini
 
 The goal of this project is to classify text data into three categories:
 - **0**: Not suicidal
-- **1**: Possibly suicidal
-- **2**: Strong indications of suicidal ideation
+- **1**: Indication of suicidal
+- **2**: Indication of hurting someone else
 
 The classification is based on user comments or reviews, using preprocessed text features and trained ML models.
 
