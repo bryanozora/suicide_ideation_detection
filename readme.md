@@ -23,10 +23,10 @@ The classification is based on user comments or reviews, using preprocessed text
 
 ## 🚀 Features
 
+- Data augmentation using LLM
 - Preprocessing of raw text data (tokenization, cleaning, vectorization)
 - Multi-class classification using traditional ML techniques
 - Evaluation using metrics such as accuracy, precision, recall, and F1-score
-- Dataset visualization (label distribution, word clouds)
 
 ---
 
@@ -35,12 +35,12 @@ The classification is based on user comments or reviews, using preprocessed text
 - **Language**: Python
 - **Libraries**:
   - `scikit-learn`
-  - `pandas`, `numpy`
-  - `matplotlib`, `seaborn`, `wordcloud`
-  - `nltk`
+  - `Tensorflow`, `PyTorch`
+  - `Pandas`, `Numpy`
+  - `openpyxl`, `sacremoses`, `datasets`
 - **Models**:
-  - Naive Bayes
-  - Logistic Regression
-  - Support Vector Machine (SVM)
+  - Bidirectional RNN
+  - Bidirectional LSTM
+  - Transformers
 
 ---
