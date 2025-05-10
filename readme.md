@@ -6,7 +6,7 @@ A machine learning project focused on detecting suicide ideation in social media
 
 ## 📚 Academic Context
 
-This project was created as part of an academic assignment for the Natural Language Processing (NLP) course at Petra Christian University. It explores the use of traditional machine learning models for detecting suicidal thoughts in user-generated content.
+This project was created as part of an academic assignment for the Text Web Mining course at Petra Christian University. It explores the use of traditional machine learning models for detecting suicidal thoughts in user-generated content.
 
 ---
 
